@@ -1,0 +1,2 @@
+# werock
+Learning project
